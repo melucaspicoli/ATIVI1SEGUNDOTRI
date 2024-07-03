@@ -1,0 +1,84 @@
+body {
+
+    text-align: center;
+    margin: 0;
+
+}
+
+h1 {
+
+    color: rgb(27, 7, 206);
+    font-size: 60px;
+
+}
+
+#tricolor {
+
+    font-size: 35px;
+
+}
+
+#melhor {
+
+    font-size: 32px;
+
+}
+
+#camisa-gr {
+
+    width: 20%;
+    border-color: rgb(8, 115, 255);
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    margin-top: 25px;
+    margin-bottom: 20px;
+
+}
+
+#linha-azul {
+
+    background-color: rgb(27, 7, 206);
+    padding: 8px;
+
+}
+
+#linha-bran {
+
+    background-color: white;
+
+}
+
+#melhor{
+
+    color: white;
+
+}
+
+h3 {
+
+    color: black;
+
+}
+
+#linha-bla {
+
+    background-color: black;
+    padding: 8px;
+
+}
+
+h3 {
+
+    font-size: 25px;
+    padding-top: 15px;
+
+}
+
+a {
+
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+
+}
